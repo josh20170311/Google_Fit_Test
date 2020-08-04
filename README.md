@@ -4,13 +4,4 @@
 * client auth  
 * https://developers.google.com/android/guides/client-auth
 
-> * ecece 
-> * ececece
 
-<p>
-  sfdfsa
-  asdfasd
-  fasdf
-  asdfas
-  dfasdf
-</p>
